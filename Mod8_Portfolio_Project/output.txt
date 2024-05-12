@@ -1,0 +1,4 @@
+Name      Address             GPA       Major
+Jimmy     3400 Mayflower      3.2       Biology   
+Kevin     1400 Chalice        2.9       Computer Science
+Mindy     342 Caker st        2.5       Physics   
